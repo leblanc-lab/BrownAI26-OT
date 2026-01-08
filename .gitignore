@@ -2,6 +2,8 @@
 efjets/
 jetclass/
 MNIST/
+figures/
+isotropy/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
